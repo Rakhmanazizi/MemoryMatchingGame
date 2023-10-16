@@ -1,0 +1,10 @@
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe.config
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.pdb
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.AssemblyReference.cache
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Form1.resources
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Properties.Resources.resources
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.GenerateResource.cache
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.CoreCompileInputs.cache
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.exe
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\MemoryMatchingGame\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.pdb
